@@ -1,0 +1,20 @@
+.dropdown-component {
+  display: inline-block;
+  padding: 10px 0;
+  width: 100%;
+}  
+
+.dropdown-component .dropdown-component__label {
+  font-size: 12px;
+  text-align: left;
+  display: block;
+  margin-bottom: 8px;
+  color: #808080
+}
+
+.dropdown-component__select {
+  padding: 10px;
+  border-radius: 4px;
+  width: 100%;
+}
+
